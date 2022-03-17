@@ -11,7 +11,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(windowWidth, windowHeight,P2D);
+  createCanvas(windowWidth, windowHeight);
   imageMode(CENTER);
   mx = width/2;
   my = 0;
