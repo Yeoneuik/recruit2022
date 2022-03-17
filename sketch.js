@@ -3,7 +3,7 @@ let main, explain, contact, minilogo, crew;
 let pad = 30;
 
 function preload() {
-  main = loadImage("osl_main1.png");
+  main = loadImage("osl_main.png");
   explain = loadImage("exlpain1.png");
   contact = loadImage("contact1.png");
   minilogo = loadImage("minilogo1.png");
