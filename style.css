@@ -18,12 +18,16 @@ div{
 }
 
 #buttonField{
+  text-align: center;
+  color: aliceblue;
   margin-left: 25vw;
   margin-right: 25vw;
-  margin-top: 25vh;
-  margin-bottom: 25vh;
-  height:50vh;
+  margin-top: 80vh;
+  margin-bottom: 11vh;
+  height:9vh;
   width: 50vw;
   z-index: 10;
-  background-color: brown;
+  border: black;
+  border-radius: 20px;
+  background-color: black;
 }
