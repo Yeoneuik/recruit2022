@@ -17,17 +17,26 @@ div{
   background-color: aquamarine;
 }
 
+<<<<<<< HEAD
 /* #buttonField{
   text-align: center;
   color: aliceblue;
+=======
+#buttonField{
+>>>>>>> parent of dc82cd6 (버튼 디자인 수정)
   margin-left: 25vw;
   margin-right: 25vw;
-  margin-top: 80vh;
-  margin-bottom: 11vh;
-  height:9vh;
+  margin-top: 25vh;
+  margin-bottom: 25vh;
+  height:50vh;
   width: 50vw;
   z-index: 10;
+<<<<<<< HEAD
   border: black;
   border-radius: 20px;
   background-color: black;
 } */
+=======
+  background-color: brown;
+}
+>>>>>>> parent of dc82cd6 (버튼 디자인 수정)
